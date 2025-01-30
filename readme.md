@@ -58,5 +58,5 @@
 
 ## Deployment
 
-- The backend is deployed on Render for scalability.
+- The API was deployed on Render for scalability and reliable hosting, but the deployment has been discontinued due to ongoing costs..
 - The frontend can be deployed on platforms like Vercel or Netlify.
