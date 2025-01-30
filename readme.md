@@ -20,8 +20,8 @@
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/audio-to-text-api.git
-   cd audio-to-text-api
+   git clone https://github.com/CalebAkomaye/genie
+   cd genie
    ```
 2. Install dependencies:
    ```sh
@@ -30,7 +30,7 @@
 3. Configure environment variables:
    - Create a `.env` file in the root directory with:
      ```
-     DATABASE_URL=your_postgresql_connection_string
+     DATABASE_URL=your_awesome_connection_string
      SECRET_KEY=your_secret_key
      ```
 4. Run the application:
