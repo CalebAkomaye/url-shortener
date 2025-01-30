@@ -27,7 +27,7 @@
    ```
    cd backend
    python -m venv venv
-   venv\Scripts\activate
+   'venv\Scripts\activate' 
    pip install -r requirements.txt
    ```  
 3. Configure environment variables:  
