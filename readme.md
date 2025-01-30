@@ -24,10 +24,10 @@
    cd url-shortener
    ```  
 2. Set up the backend:  
-   ```sh
+   ```
    cd backend
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   venv\Scripts\activate
    pip install -r requirements.txt
    ```  
 3. Configure environment variables:  
@@ -51,7 +51,7 @@
      VITE_API_URL=http://localhost:5000
      ```  
 7. Run the frontend:  
-   ```sh
+   ```
    npm run dev
    ```  
 
